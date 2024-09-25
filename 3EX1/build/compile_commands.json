@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/os/os_070_8/Documents/3EX1/build",
+  "command": "/usr/bin/cc  -I/home/os/os_070_8/Documents/3EX1/include -g -o CMakeFiles/3EX1.dir/src/main.c.o -c /home/os/os_070_8/Documents/3EX1/src/main.c",
+  "file": "/home/os/os_070_8/Documents/3EX1/src/main.c",
+  "output": "CMakeFiles/3EX1.dir/src/main.c.o"
+},
+{
+  "directory": "/home/os/os_070_8/Documents/3EX1/build",
+  "command": "/usr/bin/cc  -I/home/os/os_070_8/Documents/3EX1/include -g -o CMakeFiles/3EX1.dir/src/floatme.c.o -c /home/os/os_070_8/Documents/3EX1/src/floatme.c",
+  "file": "/home/os/os_070_8/Documents/3EX1/src/floatme.c",
+  "output": "CMakeFiles/3EX1.dir/src/floatme.c.o"
+},
+{
+  "directory": "/home/os/os_070_8/Documents/3EX1/build",
+  "command": "/usr/bin/cc  -I/home/os/os_070_8/Documents/3EX1/include -g -o CMakeFiles/3EX1.dir/src/printarcsine.c.o -c /home/os/os_070_8/Documents/3EX1/src/printarcsine.c",
+  "file": "/home/os/os_070_8/Documents/3EX1/src/printarcsine.c",
+  "output": "CMakeFiles/3EX1.dir/src/printarcsine.c.o"
+}
+]

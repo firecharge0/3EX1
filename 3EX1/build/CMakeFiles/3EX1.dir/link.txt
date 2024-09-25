@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/3EX1.dir/src/main.c.o CMakeFiles/3EX1.dir/src/floatme.c.o CMakeFiles/3EX1.dir/src/printarcsine.c.o -o 3EX1  -lm 
